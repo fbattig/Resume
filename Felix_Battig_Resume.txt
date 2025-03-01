@@ -1,0 +1,112 @@
+FELIX BATTIG
+FULL STACK DEVELOPER
+SUMMARY OF QUALIFICATIONS
+* Over 15 years of experience designing and developing applications using C# and .NET Framework/Core using Microsoft Visual Studio
+* Experience gathering user requirements, reviewing deficiencies, and providing solutions to remediate those. 
+* Experience building web applications using ASP.NET MVC/MVVC, Angular, Angular Material, React, HTML, CSS., SASS
+* Experience building RESTful web APIs.
+* Experience working on RDBMS like MS SQL Server, MYSQL. 
+* Full stack software development experience
+* Experience with technical documentation of code functionalities. 
+* Experience with user testing methods.
+* Mentored and led developers, providing technical guidance, coordinating team efforts, and implementing Agile methodologies for efficient project management.
+* Leveraging cutting-edge coding assistants: Cursor, Windsurf, Roo-Code, Claude-Sonnet, and Copilot to drive superior code quality, streamline development workflows, and maximize overall efficiency.
+* Fluent in English and Spanish. 
+TECHNICAL PROFICIENCIES
+C#, Crystal Reports , CSS, Entity Framework, HTML, JavaScript, jQuery, Git, TFS, LINQ to Entities, Microsoft Access, ASP.NET CORE, ASP.NET (MVC) 3/4/5, Silverlight, SSIS, SSRS, SQL Server 2000/2008/214/2016, Tableau, Team Foundation Server, Telerik Kendo User Interface, VB 6, Visual Basic.NET, Visual Studio 2015/2017/2019/2022, WinForms, WPF, Bootstrap, HTML 5, Angular, React, Redux, React-hooks, Blazor.
+FULL STACK DEVELOPER (Contract) | TTC, Toronto, Ontario | Jan 2024 – Dec 2024
+* Modernized legacy .NET 4.6 board reporting web forms by migrating to ASP.NET Core and Angular.
+* Optimized Angular components and backend workflows, cutting load times by 80% and boosting efficiency by 60%.
+* Engineered 50+ test cases to secure 99% system reliability and eliminate performance bottlenecks.
+* Integrated Angular 17, Telerik Kendo UI, Crystal Reports, Entity Framework, and RESTful APIs.
+* Delivered an enterprise-level reporting system that enhanced performance and user experience.
+
+FULL STACK DEVELOPER (Contract) | Compass Canada, Mississauga, Ontario | Aug 2022 – Dec 2023
+* Collaborated on EPay’s ASP.NET 4.6 Web API while maintaining four N-tier enterprise applications in C#.
+* Optimized SQL Server databases by refining stored procedures, functions, and indexes while enhancing SSRS reports.
+* Developed responsive GUIs with HTML, JavaScript, and AJAX; transitioned a PHP admin app to ASP.NET Web Forms then Blazor.
+* Employed reverse engineering to refactor legacy code and produce comprehensive documentation.
+* Mentored and onboarded developers for seamless integration into high-performance .NET solutions.
+* Leveraged T-SQL expertise and Visual Studio 2019 to drive continuous system improvements.
+
+FULL STACK DEVELOPER (Contract) | First Canadian Title (FCT), Toronto, Ontario | Nov 2021 – Jun 2022
+* Streamlined CI/CD processes using TFS and Azure DevOps for smooth code changes and version control.
+* Developed versatile web applications using Angular 12, HTML, SASS, and .NET Web API.
+* Built optimized N-tier enterprise applications leveraging C# and .NET frameworks.
+* Transformed the "FCT Junction Online" project into a responsive, user-friendly platform.
+* Implemented a modular single-page application structure with Angular, TypeScript, and Bootstrap.
+* Created SQL scripts to facilitate seamless database deployment and administration.
+
+FULL STACK DEVELOPER (Contract) | Bond Brand Loyalty, Toronto, Ontario | May 2021 – Sep 2021
+* Utilized SQL stored procedures and T-SQL queries to manage the Scene and Scotia rewards application.
+* Maintained and enhanced ASP.NET Web Forms GUI applications for optimal user experience.
+* Oversaw SSIS package maintenance to ensure efficient data integration and transformation.
+* Collaborated with stakeholders to align technical solutions with business requirements.
+* Developed reusable, high-performance C# and AJAX code to proactively address bottlenecks.
+* Contributed as a key member of the digital engineering team, ensuring application responsiveness.
+
+FULL STACK DEVELOPER (Contract) | RR Tax Accounting, Toronto, Ontario | Mar 2019 – Apr 2021
+* Engineered a high-performance customer tracking app using Angular 12, ASP.NET Core API, and Azure SQL.
+* Leveraged Entity Framework and GitLab to build tailored software solutions meeting client needs.
+* Developed a GST/HST data collection form with React Hooks and Firebase, ensuring robust security.
+* Configured Azure resources and managed deployments via Azure DevOps for seamless integration.
+* Led client meetings to gather requirements and translate them into comprehensive technical documentation.
+
+FULL STACK DEVELOPER (Contract) | Royal Bank of Canada (RBC), Toronto, Ontario | Aug 2018 – Feb 2019
+* Analyzed requirements to develop secure, compliant .NET and Angular applications.
+* Created a "Related Party Reporting" solution using C#, ASP.NET Core API, Angular, and NgRx.
+* Designed a "Resource Planning" app that integrated SharePoint data with SQL Server for Tableau reporting.
+* Enhanced financial planning applications to improve functionality and system performance.
+* Developed a console app for secure SharePoint data transfer using multithreading and delegates.
+* Resolved complex business system issues through rigorous testing and quality assurance.
+
+FULL STACK DEVELOPER (Contract) | Copper Horizon Software (CHS), Calgary, Alberta | Sept 2014 – Jun 2018
+* Developed an Azure-based PDF agreement application using ASP.NET Core, Angular, and SQL Azure.
+* Configured Azure VMs and SQL Server, leveraging Azure DevOps and Git for CI/CD automation.
+* Maintained ASP.NET MVC and Telerik Kendo UI apps for a Fortune Global 500, enhancing data automation.
+* Conducted unit testing and applied Agile Scrum methodologies to optimize sprint delivery.
+* Utilized SSIS to migrate data from legacy Microsoft Dynamics CRM systems via advanced T-SQL.
+* Implemented a React-based Assyst Web application to empower sales tracking and forecasting.
+
+DEVELOPER (Contract) | Bayer Crop Science, Toronto, Ontario | Jun 2013 – Aug 2014
+* Developed and maintained ASP.NET MVC and Telerik Kendo UI applications to streamline data automation.
+* Created a financial application for rebate calculation using Excel/VBA, driving significant cost savings.
+* Improved a Silverlight-based budgeting application serving 500 concurrent users.
+* Employed SSIS to extract and transfer data from diverse sources for Tableau reporting.
+* Collaborated with clients to capture requirements and transform them into technical solutions.
+* Produced detailed documentation to support ongoing application enhancements.
+
+DEVELOPER (Contract) | Ministry of Transportation (MTO), St. Catharines, Ontario | Aug 2012 – May 2013
+* Contributed to the Transit Volume Information System (TVIS) using WPF, MVVM, and LINQ for efficient reporting.
+* Performed automated and manual unit tests to ensure system verification and quality.
+* Leveraged TFS for CI/CD and effective source control management.
+* Generated and refined automated test scripts and Coded UI tests for enhanced system reliability.
+* Implemented Agile methodologies (Sprint Backlogs, Daily Stand-Ups) for timely project delivery.
+* Enhanced transit data reporting functionality to support stakeholder decision-making.
+
+DEVELOPER (Contract) | Ministry of Education (MOE), Toronto, Ontario | Jun 2011 – Jun 2012
+* Designed and implemented MVC controllers, views, and models in line with client requirements.
+* Developed and unit tested a robust survey application using ASP.NET Razor, JavaScript, and SQL.
+* Adjusted Crystal Reports based on change requests to ensure data accuracy and timely updates.
+* Provided technical insights that guided system improvements and application upgrades.
+* Collaborated with project managers to ensure timely and efficient deliverables.
+* Enhanced usability for non-technical staff through intuitive interface design.
+
+LEAD SENIOR DEVELOPER (Contract) | Liquor Control Board of Ontario (LCBO), Toronto, Ontario | Nov 2007 – May 2011
+* Converted a VB Windows-based Gift Card application, enabling real-time balance adjustments and PCI compliance.
+* Developed high-volume sales controls using SQL stored procedures to ensure seamless transactions.
+* Designed a digital Brand Display web page with JavaScript/jQuery to automate sales promotion data.
+* Engineered a WPF Law Enforcement and Incident Report Online app to streamline investigative processes.
+* Troubleshot and resolved complex .NET application bugs to maintain system stability.
+* Developed user-friendly WinForms interfaces to enhance operational efficiency.
+
+DEVELOPER (Contract) | Canadian National Railway, Brampton, Ontario | Jan 2003 – Oct 2007
+* Developed the “WEB CN Worldwide” application in ASP.NET-C# to track container shipments 24/7.
+* Built a Container Management Tool in Visual Basic to optimize warehouse and shipping operations.
+* Contributed to the IMXTool Scheduling system, enhancing data retrieval and reporting flexibility.
+* Created the FMS Interquisa tool interface to improve service monitoring across North America.
+* Ensured compliance with IT security standards and best practices in all development processes.
+* Delivered training and presentations on product design and functionality to clients.
+
+
+
